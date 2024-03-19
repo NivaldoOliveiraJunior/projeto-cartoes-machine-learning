@@ -10,6 +10,7 @@ Original file is located at
 """
 
 # ABRE A CONEXÃO COM O BANCO DE DADOS
+# primeira subida para o GIT
 import sqlite3
 import pandas as pd
 conn = sqlite3.connect("database.db")
